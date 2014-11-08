@@ -11,5 +11,5 @@ package com.mkyong.core;
  * @author Navneet Dubey
  */
 public class Ambrish {
-    String ambrish;
+    
 }
